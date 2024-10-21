@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="bookstore.xsd">
+<book>
+<title>Harry Potter and the Sorcerer's Stone</title>
+<author>J.K. Rowling</author>
+<genre>Fantasy</genre>
+<price>19.99</price>
+</book>
+<book>
+<title>To Kill a Mockingbird</title>
+<author>Harper Lee</author>
+<genre>Classic</genre>
+<price>14.99</price>
+</book>
+<!-- Add more books as needed -->
+</bookstore>
+  
